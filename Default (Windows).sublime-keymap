@@ -1,0 +1,11 @@
+[
+  {
+    "keys": ["ctrl+shift+z"],
+    "command": "full_undo"
+  },
+
+  {
+    "keys": ["ctrl+shift+r"],
+    "command": "full_redo"
+  }
+]

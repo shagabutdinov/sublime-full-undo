@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "FullUndo: Full undo",
+    "command": "full_undo"
+  },
+
+  {
+    "caption": "FullUndo: Full redo",
+    "command": "full_redo"
+  }
+]
