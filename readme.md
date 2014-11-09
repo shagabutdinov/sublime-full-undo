@@ -6,7 +6,7 @@ the beginning.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-full-undo/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/full_undo.gif "Demo")
 
 
 ### Installation
@@ -19,9 +19,11 @@ If you would like to install this package separately check "Installing packages
 separately" section of [sublime-enhanced](http://github.com/shagabutdinov/sublime-enhanced)
 package.
 
+
 ### Usage
 
 Hit keyboard shortcut to full undo or full redo.
+
 
 ### Commands
 
@@ -29,3 +31,8 @@ Hit keyboard shortcut to full undo or full redo.
 |------------------------------|-------------------|---------------------|
 | Full undo                    | ctrl+shift+z      | FullUndo: Full undo |
 | Full redo                    | ctrl+shift+r      | FullUndo: Full redo |
+
+
+### Dependencies
+
+None
