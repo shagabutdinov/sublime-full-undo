@@ -1,17 +1,10 @@
 [
   {
     "keys": ["ctrl+shift+z"],
-    "command": "full_undo",
-    "context": [
-      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
-    ]
+    "command": "full_undo"
   },
-
   {
     "keys": ["ctrl+shift+r"],
-    "command": "full_redo",
-    "context": [
-      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
-    ]
+    "command": "full_redo"
   }
 ]
